@@ -1,3 +1,5 @@
+<h1 align="center"><img src="../picpay-clone-ui/src/assets/logo-repo.png" alt="Picpay APP Clone UI by Jhony Walker" width="200px" /></h1>
+
 ## 💻 Resumo do projeto
 
 Este projeto foca em apenas um Clone da UI do PicPay onde apresenta as telas `Home` e a tela `Wallet`.
