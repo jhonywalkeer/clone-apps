@@ -8,7 +8,7 @@ Este repositório é um copilado de todos clones que realizei focando em apps mo
 
 ## 🚩 Navegando pelos projetos
 
-- [Picpay Clone UI]("../picpay-clone-ui/README.md") - Este projeto foca em apenas um Clone da UI do PicPay onde apresenta as telas `Home` e a tela `Wallet`.
+- [Picpay Clone UI](https://github.com/JhonyWalker-pixel/clone-apps/tree/main/picpay-clone-ui) - Este projeto foca em apenas um Clone da UI do PicPay onde apresenta as telas `Home` e a tela `Wallet`.
 
 
 
