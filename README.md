@@ -3,7 +3,7 @@
 Este repositório é um copilado de todos clones que realizei focando em apps mobile.
 
 ```text
-⚠ ESTE PROJETO É APENAS UM ESTUDO NÃO UTILIZADO DE MANEIRA MALIOSA
+⚠ ESTES PROJETOS É APENAS UM ESTUDO NÃO UTILIZADO DE MANEIRA MALIOSA
 ```
 
 ## 🚩 Navegando pelos projetos
