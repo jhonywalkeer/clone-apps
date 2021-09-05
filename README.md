@@ -14,7 +14,7 @@ Este repositório é um copilado de todos clones que realizei focando em apps mo
 
 ## 🛠 Tecnologias
 
-Projetos foi construídos com diversas tecnologias e dependências
+Projetos foram construídos com diversas tecnologias e dependências
 
 ## 🔨 Instalação Local
 
