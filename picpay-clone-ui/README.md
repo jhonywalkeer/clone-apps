@@ -11,7 +11,7 @@ Este projeto foca em apenas um Clone da UI do PicPay onde apresenta as telas `Ho
 
 ## 🛠 Tecnologias
 
-#### Projeto foi construído utilizando **React Native** e o **Expo** e as seguintes dependências:
+#### Projeto foi construído utilizando **React Native** e o **Expo** além das seguintes dependências:
 
 - **[React Navigation](https://reactnavigation.org/)** é uma biblioteca popular para roteamento e navegação em uma aplicação React Native.
 
