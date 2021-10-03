@@ -1,24 +1,24 @@
-## 💻 Resumo do repositório
+## 💻 Repository summary
 
-Este repositório é um copilado de todos clones que realizei focando em apps mobile.
+This repository is a compilation of all clones I made focusing on mobile apps.
 
 ```text
-⚠ ESTES PROJETOS É APENAS UM ESTUDO NÃO UTILIZADO DE MANEIRA MALIOSA
+⚠ THESE PROJECTS IS JUST A MALICIOUS UNUSED STUDY
 ```
 
-## 🚩 Navegando pelos projetos
+## 🚩 Navigating through projects
 
-- [Picpay Clone UI](https://github.com/JhonyWalker-pixel/clone-apps/tree/main/picpay-clone-ui) - Este projeto foca em apenas um Clone da UI do PicPay onde apresenta as telas `Home` e a tela `Wallet`.
+- [Picpay Clone UI](https://github.com/JhonyWalker-pixel/clone-apps/tree/main/picpay-clone-ui) - This project focuses on just one Clone of the PicPay UI where it presents the `Home` screens and the `Wallet` screen.
 
 
 
-## 🛠 Tecnologias
+## 🛠 Technologies
 
-Projetos foram construídos com diversas tecnologias e dependências
+Projects were built with several technologies and dependencies
 
 ## 🔨 Instalação Local
 
-Você precisará do [GIT](https://git-scm.com/) na versão mais atualizada, instalado no seu computador para continuar.
+You will need [GIT](https://git-scm.com/) in the most up-to-date version installed on your computer to continue.
 
 ```bash
 git clone https://github.com/JhonyWalker-pixel/clone-apps.git
@@ -27,8 +27,8 @@ $ cd clones
 $ code .
 ```
 
-E agora para rodar localmente verifique os requisitos necessários no `README.md` de cada projeto
+And now to run locally check the necessary requirements in the `README.md` of each project
 
 ## 📖 License
 
-Este projeto está sob a licença do MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+This project is under license from MIT. See the [LICENSE](LICENSE.md) file for more details.
