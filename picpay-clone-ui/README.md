@@ -1,26 +1,26 @@
 <h1 align="center"><img src="../picpay-clone-ui/src/assets/logo-repo.png" alt="Picpay APP Clone UI by Jhony Walker" width="200px" /></h1>
 
-## 💻 Resumo do projeto
+## 💻 Repository summary
 
-Este projeto foca em apenas um Clone da UI do PicPay onde apresenta as telas `Home` e a tela `Wallet`.
+This project focuses on just one Clone of the PicPay UI where it presents the `Home` screens and the `Wallet` screen.
 
 ```text
-⚠ ESTE PROJETO É APENAS UM ESTUDO NÃO UTILIZADO DE MANEIRA MALIOSA
+⚠ THIS PROJECT IS JUST A MALICIOUS UNUSED STUDY
 ```
 
 
-## 🛠 Tecnologias
+## 🛠 Technologies
 
-#### Projeto foi construído utilizando **React Native** e o **Expo** além das seguintes dependências:
+Project was built using **React Native** and **Expo** in addition to the following dependencies:
 
-- **[React Navigation](https://reactnavigation.org/)** é uma biblioteca popular para roteamento e navegação em uma aplicação React Native.
+- **[React Navigation](https://reactnavigation.org/)** - Is a popular library for routing and navigation in a React Native application.
 
-- **[Styled Components](https://styled-components.com/)** permitem que você escreva CSS real em seu JavaScript. Isso significa que você pode usar todos os recursos de CSS que usa e adora, incluindo (mas não se limitando a) consultas de mídia, todos os pseudo-seletores, aninhamento, etc.
+- **[Styled Components](https://styled-components.com/)** - Allow you to write real CSS in your JavaScript. This means you can use all the CSS features you use and love, including (but not limited to) media queries, all pseudo selectors, nesting, etc.
 
 
 ## 🔨 Instalação Local
 
-Você precisará do [GIT](https://git-scm.com/) na versão mais atualizada, instalado no seu computador para continuar.
+You will need [GIT](https://git-scm.com/) in the most up-to-date version installed on your computer to continue.
 
 ```bash
 git clone https://github.com/JhonyWalker-pixel/picpay-clone.git
@@ -29,7 +29,7 @@ $ cd picpay-clone
 $ code .
 ```
 
-E agora para rodar localmente será necessário a instalação do [Expo](https://expo.dev/) na versão 39.0 ou superior e executar o seguinte comando
+And now to run locally it will be necessary to install [Expo](https://expo.dev/) in version 39.0 or higher and run the following command
 
 ```bash
 expo start
@@ -38,4 +38,4 @@ expo start
 
 ## 📖 License
 
-Este projeto está sob a licença do MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+This project is under license from MIT. See the [LICENSE](LICENSE.md) file for more details.
