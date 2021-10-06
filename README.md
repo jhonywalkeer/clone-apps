@@ -3,7 +3,7 @@
 This repository is a compilation of all clones I made focusing on mobile apps.
 
 ```text
-⚠ THESE PROJECTS IS JUST A MALICIOUS UNUSED STUDY
+⚠ THESE PROJECTS ARE FOR STUDY ONLY, NOT MALICIOUSLY USED
 ```
 
 ## 🚩 Navigating through projects
