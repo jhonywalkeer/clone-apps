@@ -5,7 +5,7 @@
 This project focuses on just one Clone of the PicPay UI where it presents the `Home` screens and the `Wallet` screen.
 
 ```text
-⚠ THIS PROJECT IS JUST A MALICIOUS UNUSED STUDY
+⚠ THESE PROJECTS ARE FOR STUDY ONLY, NOT MALICIOUSLY USED
 ```
 
 
