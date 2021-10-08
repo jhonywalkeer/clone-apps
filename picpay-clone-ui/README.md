@@ -23,7 +23,6 @@ Project was built using **React Native** and **Expo** in addition to the followi
 You will need [GIT](https://git-scm.com/) in the most up-to-date version installed on your computer to continue.
 
 ```bash
-git clone https://github.com/JhonyWalker-pixel/picpay-clone.git
 
 $ cd picpay-clone
 $ code .
