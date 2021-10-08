@@ -8,7 +8,7 @@ This repository is a compilation of all clones I made focusing on mobile apps.
 
 ## 🚩 Navigating through projects
 
-- [Picpay Clone UI](https://github.com/JhonyWalker-pixel/clone-apps/tree/main/picpay-clone-ui) - This project focuses on just one Clone of the PicPay UI where it presents the `Home` screens and the `Wallet` screen.
+- [Picpay Clone UI](https://github.com/jhonywalkeer/clone-apps/tree/main/picpay-clone-ui) - This project focuses on just one Clone of the PicPay UI where it presents the `Home` screens and the `Wallet` screen.
 
 
 
@@ -21,7 +21,7 @@ Projects were built with several technologies and dependencies
 You will need [GIT](https://git-scm.com/) in the most up-to-date version installed on your computer to continue.
 
 ```bash
-git clone https://github.com/JhonyWalker-pixel/clone-apps.git
+git clone https://github.com/jhonywalkeer/clone-apps.git
 
 $ cd clones
 $ code .
