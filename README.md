@@ -12,7 +12,7 @@ This repository is a compilation of all clones I made focusing on mobile apps.
 
 ## 🚩 Navigating through projects
 
-- [Banco Inter Clone UI](https://github.com/jhonywalkeer/clone-apps/tree/main/picpay-clone-ui) - This project focuses on just one Clone of the Banco Inter UI where it presents the `Login` and `Home` screen. For its construction it was using React Native together with Typescript.
+- [Banco Inter Clone UI](https://github.com/jhonywalkeer/clone-apps/tree/main/banco-inter-clone-ui) - This project focuses on just one Clone of the Banco Inter UI where it presents the `Login` and `Home` screen. For its construction it was using React Native together with Typescript.
 
 - [Picpay Clone UI](https://github.com/jhonywalkeer/clone-apps/tree/main/picpay-clone-ui) - This project focuses on just one Clone of the PicPay UI where it presents the `Home` screens and the `Wallet` screen. For its construction it was using React Native together with Expo.
 
