@@ -4,7 +4,7 @@
 
 ## 💻 Repository summary
 
-This project focuses on just one Clone of the Banco Inter UI where it presents the `Login` and `Home` screen. To view the design just [click here](https://github.com/jhonywalkeer/clone/tree/master/inter-redesign/src/assets/images/screenshots).
+This project focuses on just one Clone of the Banco Inter UI where it presents the `Login` and `Home` screen. To view the design just [click here](https://github.com/jhonywalkeer/clone-apps/tree/main/banco-inter-clone-ui/readme/assets/screenshots).
 
 ```text
 ⚠ THESE PROJECTS ARE FOR STUDY ONLY, NOT MALICIOUSLY USED
