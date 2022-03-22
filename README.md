@@ -6,9 +6,9 @@
 
 This repository is a compilation of all clones I made focusing on mobile apps.
 
-```text
-⚠ THESE PROJECTS ARE FOR STUDY ONLY, NOT MALICIOUSLY USED
-```
+<h1 align="center">
+    <img width="50%"  alt="Study" title="Repository Clone APPs" src="./readme/images/apps.svg" />
+</h1>
 
 ## 🚩 Navigating through projects
 
